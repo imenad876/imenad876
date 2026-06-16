@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 
+#  I'm Deca 👋
+### Systems Documentation & Database Optimization Specialist
 
+-  Focus: Relational database architecture, raw SQL tuning, and Linux environment configurations.
+-  Current Project: Building high-performance schema blueprints for e-commerce platforms.
+-  Available for: Technical writing contracts, documentation pipelines, and backend data audits.
 <!--
 **imenad876/imenad876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
