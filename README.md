@@ -1,21 +1,18 @@
-## Hi there 
-#  I'm Deca 👋
-### Systems Documentation & Database Optimization Specialist
+## Hi, I'm Derrick 👋
+### Frontend Developer · React · Kigali, Rwanda
 
--  Focus: Relational database architecture, raw SQL tuning, and Linux environment configurations.
--  Current Project: Building high-performance schema blueprints for e-commerce platforms.
--  Available for: Technical writing contracts, documentation pipelines, and backend data audits.
-<!--
-**imenad876/imenad876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building responsive, accessible UIs with React, JavaScript, and Tailwind CSS.
+- Working on **AuraStay & Co-Ledger**, a property management platform for Kigali rentals (React, Node, PostgreSQL).
+- Freelance web and app developer: Figma-to-code, REST API integrations, WordPress.
+- Year 2 IT student at AUCA. Working through CS50x.
+- Available for part-time and remote work. UTC+2, flexible evenings.
 
-Here are some ideas to get you started:
+### Stack
+React · JavaScript · Tailwind CSS · HTML/CSS · Node.js · Express · PostgreSQL · PHP · MySQL · Git · Docker · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [Niyo Apartment](https://niyoapartment.netlify.app/): Landing page,booking page for Niyo apartment
+
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/imena-derrick-308085389) · imenaderrick@gmail.com
